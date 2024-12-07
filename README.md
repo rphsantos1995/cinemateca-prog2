@@ -27,7 +27,7 @@
 
 ## A. Descrição resumida do problema
 
-Nosso projeto consiste em criar um programa que gerencia uma lista de filmes. Ele mantém uma lista encadeada, onde cada filme possui um ID, título, gênero, duração e nota. A lista é inicializada a partir de um arquivo binário ("catalogo.bin") que contém os filmes previamente salvos. O programa permite as seguintes operações:
+Nosso projeto consiste em criar um programa que gerencia uma lista de filmes. Ele mantém uma lista encadeada, onde cada filme possui um ID, título, gênero, ano, duração e nota. A lista é inicializada a partir de um arquivo binário ("catalogo.bin") que contém os filmes previamente salvos. O programa permite as seguintes operações:
 
 - **Adicionar filme:** Insere um novo filme na lista com um ID único.
 - **Exibir Tamanho da Lista:** Mostra o número de filmes na lista.
